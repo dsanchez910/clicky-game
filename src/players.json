@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "aaron-judge",
+      "image": "./images/aaron-judge.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "patrick-mahomes",
+      "image": "./images/patrick-mahomes.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "kevin-durant",
+      "image": "./images/kevin-durant.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "saquan-barkley",
+      "image": "./images/saquan-barkley.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "rj-barrett",
+      "image": "./images/rj-barrett.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "daniel-jones",
+      "image": "./images/daniel-jones.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "odell-beckham",
+      "image": "./images/odell-beckham.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "mike-trout",
+      "image": "./images/mike-trout.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "lionel-messi",
+      "image": "./images/lionel-messi.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "tiger-woods",
+      "image": "./images/tiger-woods.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "stephen-curry",
+      "image": "./images/stephen-curry.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "tom-brady",
+      "image": "./images/tom-brady.jpg",
+      "clicked": false
+    }
+  ]
